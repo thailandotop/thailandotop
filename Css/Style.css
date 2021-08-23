@@ -1,0 +1,24 @@
+body {
+   
+}
+footer {
+    background: #FFC75F;
+    color: #ffffff;
+    padding: 30px 0px;
+    position: relative;
+}
+
+footer .col-md-4 .fa {
+    color: #ffffff;
+    padding-right: 8px;
+}
+
+footer hr {
+    border-color: #000000;
+    margin-top: 12px;
+    margin-bottom: 5px;
+}
+
+footer .footer-copyright {
+    padding-top: 9px;
+}
